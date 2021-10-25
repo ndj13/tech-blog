@@ -25,7 +25,7 @@ Download code and then run these commands in the command line. Afterwards, answe
 npm start
 
 # Languages
-JS, Node, Express, MySQL
+JS, Node, Express, MySQL, CSS, Handlebars
 
 # Questions
 Contact me at dejesusnorma13@gmail.com with further questions.
@@ -34,3 +34,6 @@ Contact me at dejesusnorma13@gmail.com with further questions.
 References: 
 <small><i><a href='https://github.com/mr91217/e-commerce-back-end'>Mr91217</a></i></small>
 (with permission)
+
+1.Class Moudles
+https://github.com/mr91217/just-tech-news
